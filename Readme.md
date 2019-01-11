@@ -1,1 +1,1 @@
-Simple excel file parser, in Dot.NET Core
+Simple console application, to parse excel file in .NET Core 2.0
