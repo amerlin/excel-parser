@@ -1,0 +1,11 @@
+C:\Users\andrea.merlin\Desktop\excel-parser\obj\Debug\netcoreapp2.1\excel-parser.csprojAssemblyReference.cache
+C:\Users\andrea.merlin\Desktop\excel-parser\obj\Debug\netcoreapp2.1\excel-parser.csproj.CoreCompileInputs.cache
+C:\Users\andrea.merlin\Desktop\excel-parser\obj\Debug\netcoreapp2.1\excel-parser.AssemblyInfoInputs.cache
+C:\Users\andrea.merlin\Desktop\excel-parser\obj\Debug\netcoreapp2.1\excel-parser.AssemblyInfo.cs
+C:\Users\andrea.merlin\Desktop\excel-parser\bin\Debug\netcoreapp2.1\excel-parser.deps.json
+C:\Users\andrea.merlin\Desktop\excel-parser\bin\Debug\netcoreapp2.1\excel-parser.runtimeconfig.json
+C:\Users\andrea.merlin\Desktop\excel-parser\bin\Debug\netcoreapp2.1\excel-parser.runtimeconfig.dev.json
+C:\Users\andrea.merlin\Desktop\excel-parser\bin\Debug\netcoreapp2.1\excel-parser.dll
+C:\Users\andrea.merlin\Desktop\excel-parser\bin\Debug\netcoreapp2.1\excel-parser.pdb
+C:\Users\andrea.merlin\Desktop\excel-parser\obj\Debug\netcoreapp2.1\excel-parser.dll
+C:\Users\andrea.merlin\Desktop\excel-parser\obj\Debug\netcoreapp2.1\excel-parser.pdb

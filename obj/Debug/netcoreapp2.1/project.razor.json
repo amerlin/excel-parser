@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\andrea.merlin\\Desktop\\excel-parser\\excel-parser.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
